@@ -367,9 +367,9 @@ Redis 发布订阅(pub/sub)是一种消息通信模式：发送者(pub)发送消
 
 Redis 客户端可以订阅任意数量的频道。
 
-![Image text](https://github.com/Pangxiaox/Redis_Learning/tree/master/img/pubsub1.png)
+![Image text](https://github.com/Pangxiaox/Redis_Learning/blob/master/img/pubsub1.png)
 
-![Image text](https://github.com/Pangxiaox/Redis_Learning/tree/master/img/pubsub2.png)
+![Image text](https://github.com/Pangxiaox/Redis_Learning/blob/master/img/pubsub2.png)
 
 示例：
 
